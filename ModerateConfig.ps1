@@ -15,7 +15,7 @@ Set-MpPreference -LowThreatDefaultAction Quarantine
 #SetMAPS
 Set-MpPreference -MAPSReporting 2
 #SetIDSIPS
-Set-MpPreference -EnableNetworkProtection $True
+Set-MpPreference -EnableNetworkProtection enabled
 #SetDownloadedFilesScan
 Set-MpPreference -DisableIOAVProtection $False
 #SetEmailScanning
