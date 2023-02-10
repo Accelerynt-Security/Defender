@@ -1,2 +1,2 @@
 # Defender
-Collection of MDE configuration scripts. 
+Collection of MDE configuration scripts + queries.
